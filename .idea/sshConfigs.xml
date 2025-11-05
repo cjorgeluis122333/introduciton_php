@@ -5,6 +5,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="localhost" id="06d69b52-1590-477b-b0b1-e352e2d2c476" port="2022" customName="vm" nameFormat="CUSTOM" useOpenSSHConfig="true">
         <option name="customName" value="vm" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="localhost" id="8c24f99c-f615-4839-80e6-0603e3df61d3" port="2022" customName="vm" nameFormat="CUSTOM" username="vagrant" useOpenSSHConfig="true">
+        <option name="customName" value="vm" />
+      </sshConfig>
     </configs>
   </component>
 </project>
